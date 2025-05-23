@@ -2,8 +2,7 @@
   "mappings": [
     "/content/aem-boiler-xwalk/:/",
     "/content/aem-boiler-xwalk/configuration:/.helix/config.json",
-    "/content/aem-boiler-xwalk/metadata:/metadata.json",
-    "/content/aem-boiler-xwalk/redirects:/redirects.json"
+    "/content/aem-boiler-xwalk/metadata:/metadata.json"
   ],
   "includes": [
     "/content/aem-boiler-xwalk/"
