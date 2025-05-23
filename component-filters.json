@@ -15,7 +15,9 @@
       "hero",
       "cards",
       "columns",
-      "fragment"
+      "fragment",
+      "quote",
+      "teaser"
     ]
   },
   {
@@ -23,19 +25,6 @@
     "components": [
       "card"
     ]
-  },
-  {
-    "id": "section",
-    "components": [
-      "text",
-      "image",
-      "button",
-      "title",
-      "hero",
-      "cards",
-      "columns",
-      "quote"
-     ]
   },
   {
     "id": "columns",
